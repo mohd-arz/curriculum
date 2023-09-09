@@ -60,7 +60,7 @@ Now, let's change things a little bit:
 <!-- index.html -->
 
 <div class="main">
-  <div class="list" id="subsection"></div>
+  <div class="list" id="subsection">Inner Div Text</div>
 </div>
 ~~~
 ~~~css
